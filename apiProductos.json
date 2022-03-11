@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "id" : "1",
+      "nombre" : "Limon con semilla",
+      "precio" : "$23.82"
+     
+    }
+  ]
+}
