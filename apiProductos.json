@@ -3,13 +3,31 @@
     {
       "id" : "1",
       "nombre" : "Limon con semilla",
-      "precio" : "$23.82"
+      "precio" : "$26.82" 
      
     },
     {
       "id" : "2",
-      "nombre" : "Limon con semilla",
-      "precio" : "$23.82"
+      "nombre" : "Tomate",
+      "precio" : "$21.79"
+     
+    },
+    {
+      "id" : "3",
+      "nombre" : "aguacate Hass",
+      "precio" : "$56.8"
+     
+    },
+    {
+      "id" : "4",
+      "nombre" : "Napal limpio",
+      "precio" : "$25.8"
+     
+    },
+    {
+      "id" : "5",
+      "nombre" : "Tomate Verde",
+      "precio" : "$22.89"
      
     }
   ]
