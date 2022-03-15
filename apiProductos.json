@@ -5,6 +5,12 @@
       "nombre" : "Limon con semilla",
       "precio" : "$23.82"
      
+    },
+    {
+      "id" : "2",
+      "nombre" : "Limon con semilla",
+      "precio" : "$23.82"
+     
     }
   ]
 }
