@@ -34,6 +34,41 @@
       "nombre" : "Tomate Verde",
       "precio" : "$22.89"
      
+    },
+    {
+      "id" : "6",
+      "imagen":"https://res.cloudinary.com/djjgtili7/image/upload/v1647366227/productosTiendita/PechugaPavo_kuphms.png",
+      "nombre" : "San Rafael pechuga de pavo",
+      "precio" : "$65.5"
+     
+    },
+    {
+      "id" : "7",
+      "imagen":"https://res.cloudinary.com/djjgtili7/image/upload/v1647366227/productosTiendita/panBimbo_ifmvc1.png",
+      "nombre" : "Bimbo Pan Blanco Grande",
+      "precio" : "$38.9"
+     
+    },
+    {
+      "id" : "8",
+      "imagen":"https://res.cloudinary.com/djjgtili7/image/upload/v1647366226/productosTiendita/mayonesa_paujwd.png",
+      "nombre" : "Mc Cormick Mayonesa",
+      "precio" : "$48.5"
+     
+    },
+    {
+      "id" : "9",
+      "imagen":"https://res.cloudinary.com/djjgtili7/image/upload/v1647366226/productosTiendita/colgate_xajpx4.png",
+      "nombre" : "Colgate Pasta Dental Triple Familiar 2 U",
+      "precio" : "$35.5"
+     
+    },
+    {
+      "id" : "10",
+      "imagen":"https://res.cloudinary.com/djjgtili7/image/upload/v1647366226/productosTiendita/huevos_pi0ygw.png",
+      "nombre" : "Huevos San Juan",
+      "precio" : "$37.5"
+     
     }
   ]
 }
