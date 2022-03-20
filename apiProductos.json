@@ -113,5 +113,15 @@
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         }
 
+  ],
+  "jobListings":[
+    {
+      "id": 0,
+      "titulo": "Photosnap",
+      "nombre": "Senior Frontend Developer",
+      "ago": "1d ago",
+      "ago2": "contract",
+      "ago3": "USA only"
+    }
   ]
 }
