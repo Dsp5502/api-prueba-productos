@@ -126,7 +126,8 @@
       "ago2": "contract",
       "ago3": "USA only",
       "new": "NEW!",
-      "featured": "FEATURED"
+      "featured": "FEATURED",
+      "tags": ["Frontend", "Senior", "HTML", "CSS", "Javascript"]
     },
     {
       "id": 1,
@@ -137,7 +138,9 @@
       "ago2": "Part Time",
       "ago3": "Remote",
       "new": "NEW!",
-      "featured": "FEATURED"
+      "featured": "FEATURED",
+      "tags": ["FullStack", "Midweigth", "Python", "React"]
+
     },
     {
       "id": 2,
