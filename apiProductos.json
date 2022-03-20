@@ -150,7 +150,8 @@
       "ago": "2d ago",
       "ago2": "Part Time",
       "ago3": "USA only",
-      "new": "NEW!"
+      "new": "NEW!",
+      "tags": ["Frontend", "Junior", "React", "Sass", "Javascript"]
     },
     {
       "id": 3,
@@ -159,7 +160,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793342/job-listings/myhome_zc4s05.svg",
       "ago": "5d ago",
       "ago2": "Contract",
-      "ago3": "USA only"
+      "ago3": "USA only",
+      "tags": ["Frontend", "Junior", "CSS", "Javascript"]
     },
     {
       "id": 4,
@@ -168,7 +170,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793342/job-listings/loop-studios_uxryrn.svg",
       "ago": "1w ago",
       "ago2": "Full Time",
-      "ago3": "Worldwide"
+      "ago3": "Worldwide",
+      "tags": ["FullStack", "Midweigth", "Javascript", "Sass","Ruby" ]
     },
     {
       "id": 5,
@@ -177,7 +180,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793345/job-listings/faceit_k1q3u1.svg",
       "ago": "2w ago",
       "ago2": "Full Time",
-      "ago3": "UK only"
+      "ago3": "UK only",
+      "tags": ["Backend", "Junior","Ruby", "RoR" ]
     },
     {
       "id": 6,
@@ -186,7 +190,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/shortly_ez6kjz.svg",
       "ago": "2w ago",
       "ago2": "Full Time",
-      "ago3": "USA only"
+      "ago3": "USA only",
+      "tags": ["Frontend", "Junior","HTML", "Sass", "Javascript" ]
     },
     {
       "id": 7,
@@ -195,7 +200,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793347/job-listings/insure_ld5v7g.svg",
       "ago": "2w ago",
       "ago2": "Full Time",
-      "ago3": "USA only"
+      "ago3": "USA only",
+      "tags": ["Frontend", "Junior","Vue", "Javascript", "Sass" ]
     },
     {
       "id": 8,
@@ -204,7 +210,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793346/job-listings/eyecam-co_ynemqw.svg",
       "ago": "2w ago",
       "ago2": "Full Time",
-      "ago3": "Worldwide"
+      "ago3": "Worldwide",
+      "tags": ["FullStack", "Midweigth", "Javascript", "Django", "Python" ]
     },
     {
       "id": 9,
@@ -213,7 +220,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/the-air-filter-company_zw2rl9.svg",
       "ago": "1m ago",
       "ago2": "Part Time",
-      "ago3": "Worldwide"
+      "ago3": "Worldwide",
+      "tags": ["Frontend", "Junior","React", "Sass", "Javascript" ]
     }
   ]
 }
