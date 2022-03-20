@@ -119,9 +119,19 @@
       "id": 0,
       "titulo": "Photosnap",
       "nombre": "Senior Frontend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647716939/job-listings/photosnap_auagw8.svg",
       "ago": "1d ago",
       "ago2": "contract",
       "ago3": "USA only"
+    },
+    {
+      "id": 1,
+      "titulo": "Manage",
+      "nombre": "Fullstack Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/manage_yld7yo.svg",
+      "ago": "1d ago",
+      "ago2": "Part Time",
+      "ago3": "Remote"
     }
   ]
 }
