@@ -80,9 +80,8 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
-            "new": "NEW!",
-            "featured": "FEATURED"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+            
             
         },
         {
@@ -93,9 +92,7 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
-            "new": "NEW!",
-            "featured": "FEATURED"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         },
         {
             "id": 3,
@@ -105,8 +102,7 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
-            "new": "NEW!"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         },
         {
             "id": 4,
@@ -128,7 +124,9 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647716939/job-listings/photosnap_auagw8.svg",
       "ago": "1d ago",
       "ago2": "contract",
-      "ago3": "USA only"
+      "ago3": "USA only",
+      "new": "NEW!",
+      "featured": "FEATURED"
     },
     {
       "id": 1,
@@ -137,7 +135,9 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/manage_yld7yo.svg",
       "ago": "1d ago",
       "ago2": "Part Time",
-      "ago3": "Remote"
+      "ago3": "Remote",
+      "new": "NEW!",
+      "featured": "FEATURED"
     },
     {
       "id": 2,
@@ -146,7 +146,8 @@
       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793345/job-listings/account_y9ixrh.svg",
       "ago": "2d ago",
       "ago2": "Part Time",
-      "ago3": "USA only"
+      "ago3": "USA only",
+      "new": "NEW!"
     },
     {
       "id": 3,
