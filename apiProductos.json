@@ -132,6 +132,78 @@
       "ago": "1d ago",
       "ago2": "Part Time",
       "ago3": "Remote"
+    },
+    {
+      "id": 2,
+      "titulo": "Account",
+      "nombre": "Junior Frontend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793345/job-listings/account_y9ixrh.svg",
+      "ago": "2d ago",
+      "ago2": "Part Time",
+      "ago3": "USA only"
+    },
+    {
+      "id": 3,
+      "titulo": "MyHome",
+      "nombre": "Junior Frontend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793342/job-listings/myhome_zc4s05.svg",
+      "ago": "5d ago",
+      "ago2": "Contract",
+      "ago3": "USA only"
+    },
+    {
+      "id": 4,
+      "titulo": "Loop Studios",
+      "nombre": "Software Engineer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793342/job-listings/loop-studios_uxryrn.svg",
+      "ago": "1w ago",
+      "ago2": "Full Time",
+      "ago3": "Worldwide"
+    },
+    {
+      "id": 5,
+      "titulo": "Facelt",
+      "nombre": "Junior Backend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793345/job-listings/faceit_k1q3u1.svg",
+      "ago": "2w ago",
+      "ago2": "Full Time",
+      "ago3": "UK only"
+    },
+    {
+      "id": 6,
+      "titulo": "Shortly",
+      "nombre": "Junior Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/shortly_ez6kjz.svg",
+      "ago": "2w ago",
+      "ago2": "Full Time",
+      "ago3": "USA only"
+    },
+    {
+      "id": 7,
+      "titulo": "Insure",
+      "nombre": "Junior Frontend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793347/job-listings/insure_ld5v7g.svg",
+      "ago": "2w ago",
+      "ago2": "Full Time",
+      "ago3": "USA only"
+    },
+    {
+      "id": 8,
+      "titulo": "Eyecam Co.",
+      "nombre": "Junior Frontend Developer",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793346/job-listings/eyecam-co_ynemqw.svg",
+      "ago": "2w ago",
+      "ago2": "Full Time",
+      "ago3": "Worldwide"
+    },
+    {
+      "id": 9,
+      "titulo": "The Air Filter Company",
+      "nombre": "Front-end Dev",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647793343/job-listings/the-air-filter-company_zw2rl9.svg",
+      "ago": "1m ago",
+      "ago2": "Part Time",
+      "ago3": "Worldwide"
     }
   ]
 }
