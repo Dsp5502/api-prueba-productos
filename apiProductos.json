@@ -80,7 +80,10 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
+            "new": "NEW!",
+            "featured": "FEATURED"
+            
         },
         {
             "id": 2,
@@ -90,7 +93,9 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
+            "new": "NEW!",
+            "featured": "FEATURED"
         },
         {
             "id": 3,
@@ -100,7 +105,8 @@
             "telefono": 2456788,
             "celular": 3167890087,
             "direccion": "CR 65 #67 89",
-            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg",
+            "new": "NEW!"
         },
         {
             "id": 4,
