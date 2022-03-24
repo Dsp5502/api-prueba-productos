@@ -223,5 +223,28 @@
       "ago3": "Worldwide",
       "tags": ["Frontend", "Junior","React", "Sass", "Javascript" ]
     }
+  ],
+  "EstudiantesCRUD":[
+    {
+      "id": 1,
+      "nombre": "Sara Bermudez",
+      "tipo": "C.C",
+      "numero": "1234567890",
+      "telefono": "123456789",
+      "direccion": " cll 80 db",
+      "imagen": "imagen"
+
+    },
+    {
+      "id": 2,
+      "nombre": "David Puerto",
+      "tipo": "C.C",
+      "numero": "1032444437",
+      "telefono": "3046343387",
+      "direccion": " cra 13#21-93",
+      "imagen": "imagen"
+
+    }
+
   ]
 }
