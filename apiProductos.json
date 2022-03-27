@@ -273,6 +273,12 @@
       "correo": "dsp5502@gmail.com",
       "nombre": "David Puerto",
       "login": true
+    },
+      {
+      "id": 2,
+      "correo": "valeria@gmail.com",
+      "nombre": "valeria",
+      "login": true
     }
    ]
 }
