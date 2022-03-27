@@ -266,5 +266,12 @@
       "nombre": "Tarea 3",
       "descripcion": "Ejemplo Cards  3"
     }
-         ]
+         ],
+   "userBD": [
+    {
+      "id": 1,
+      "correo": "dsp5502@gmail.com",
+      "nombre": "David Puerto"   
+    }
+   ]
 }
