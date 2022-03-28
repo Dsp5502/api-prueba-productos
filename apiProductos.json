@@ -272,12 +272,14 @@
       "id": 1,
       "correo": "dsp5502@gmail.com",
       "nombre": "David Puerto",
+      "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647295631/Foto_Perfil_AltaCalidad_dn4kwc.jpg",
       "login": true
     },
       {
       "id": 2,
       "correo": "valeria@gmail.com",
       "nombre": "valeria",
+       "imagen": "https://res.cloudinary.com/djjgtili7/image/upload/v1647294352/cld-sample.jpg",
       "login": true
     }
    ]
