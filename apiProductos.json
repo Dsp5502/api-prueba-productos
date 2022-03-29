@@ -283,7 +283,7 @@
       "login": true
     }
    ],
-  "PreguntasDaily:[
+  "PreguntasDaily":[
   {
   "personaje": "https://res.cloudinary.com/djjgtili7/image/upload/v1648404167/dailyBits/images/Property_1_1_pl63sg.png",
   "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
